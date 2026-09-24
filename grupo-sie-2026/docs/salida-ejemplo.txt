@@ -1,0 +1,13 @@
+=== PRESIDENCIAL_PRIMERA_VUELTA (2026-05-31) - EN_ESCRUTINIO ===
+#2 Carlos Pérez - MR               490 votos (56.98%)
+#1 Ana Gómez - PAC                 340 votos (39.53%)
+Ganador: #2 Carlos Pérez - MR
+Participación: 85.53%
+Votos de Ana Gómez por departamento: {Antioquia=90, Cundinamarca=250}
+Ganador en Antioquia: #2 Carlos Pérez - MR
+Mesas para revisión (>85%): [Mesa 1 - Plaza Mayor (censo 360): participación atípica 94.2%]
+Mesas con reclamación aceptada: []
+Incidentes en Universidad Javeriana: 1
+Incidentes: [[FALTA_DE_MATERIAL] Faltan tarjetones en la mesa 2 @ Universidad Javeriana (resuelto)]
+Reclamaciones: [REC-1 - PAC sobre acta E14-3: Posible error de suma en votos del candidato 2 [RECHAZADA]]
+Estado final: FINALIZADO
